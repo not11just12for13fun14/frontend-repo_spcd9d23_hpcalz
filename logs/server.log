@@ -3,16 +3,12 @@
 > vite
 
 
-  VITE v5.4.20  ready in 458 ms
+  VITE v5.4.20  ready in 303 ms
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.20.14.36:3000/
-5:18:55 PM [vite] Pre-transform error: Failed to resolve import "recharts" from "src/components/DemandInsights.jsx". Does the file exist?
-5:18:55 PM [vite] ✨ new dependencies optimized: lucide-react
-5:18:55 PM [vite] ✨ optimized dependencies changed. reloading
-5:18:56 PM [vite] Pre-transform error: Failed to resolve import "recharts" from "src/components/DemandInsights.jsx". Does the file exist?
-The file does not exist at "/home/workspace/node_modules/.vite/deps/chunk-I4MZPW7S.js?v=35394813" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
-5:18:58 PM [vite] Internal server error: Failed to resolve import "recharts" from "src/components/DemandInsights.jsx". Does the file exist?
+5:25:40 PM [vite] Pre-transform error: Failed to resolve import "recharts" from "src/components/DemandInsights.jsx". Does the file exist?
+5:25:42 PM [vite] Internal server error: Failed to resolve import "recharts" from "src/components/DemandInsights.jsx". Does the file exist?
   Plugin: vite:import-analysis
   File: /home/workspace/src/components/DemandInsights.jsx:1:116
   1  |  import { jsxDEV } from "react/jsx-dev-runtime";

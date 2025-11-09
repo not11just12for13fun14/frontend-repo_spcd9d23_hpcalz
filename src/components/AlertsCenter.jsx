@@ -1,4 +1,4 @@
-import { Bell, Clock, PackageOpen } from "lucide-react";
+import { Bell, Clock } from "lucide-react";
 
 const alerts = [
   { id: 1, type: "Delay", msg: "Truck MH-14 on Route #8 is running 32 min late.", time: "5m ago", tone: "warn" },
